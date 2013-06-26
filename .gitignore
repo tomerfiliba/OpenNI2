@@ -20,3 +20,7 @@ Redist/Final
 Redist/compile.log
 Redist/OpenNI-*
 Source/Documentation/html
+.project
+.cproject
+.pydevproject
+
